@@ -23,4 +23,4 @@ Discovered educational backgrounds contributing to higher turnover
 🚀 Purpose of the Project
 The goal of this project is to demonstrate data visualization and analytical skills by converting HR datasets into meaningful business insights using Tableau. This dashboard can assist organizations in improving employee retention strategies and workforce management.
 
-![HR Analytics Dashboard]([hr-dashboard.png](https://github.com/parthpatil1234/HR_Tableau/blob/main/HRANALYTICS.png))
+![HR Analytics Dashboard](https://github.com/parthpatil1234/HR_Tableau/blob/main/HRANALYTICS.png)
